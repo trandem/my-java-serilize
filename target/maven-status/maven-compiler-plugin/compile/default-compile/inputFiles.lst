@@ -1,0 +1,12 @@
+/home/demtv/IdeaProjects/my_serilize/src/main/java/base/DMarshaller.java
+/home/demtv/IdeaProjects/my_serilize/src/main/java/base/anotation/Marshaller.java
+/home/demtv/IdeaProjects/my_serilize/src/main/java/base/anotation/MethodDeserialize.java
+/home/demtv/IdeaProjects/my_serilize/src/main/java/base/anotation/MethodSerialize.java
+/home/demtv/IdeaProjects/my_serilize/src/main/java/test/TestObject.java
+/home/demtv/IdeaProjects/my_serilize/src/main/java/base/DInput.java
+/home/demtv/IdeaProjects/my_serilize/src/main/java/impl/DMarshallerIml.java
+/home/demtv/IdeaProjects/my_serilize/src/main/java/impl/DByteBufferOutput.java
+/home/demtv/IdeaProjects/my_serilize/src/main/java/base/DSerialize.java
+/home/demtv/IdeaProjects/my_serilize/src/main/java/impl/DByteBufferInput.java
+/home/demtv/IdeaProjects/my_serilize/src/main/java/test/User.java
+/home/demtv/IdeaProjects/my_serilize/src/main/java/base/DOutput.java

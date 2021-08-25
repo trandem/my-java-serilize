@@ -1,0 +1,6 @@
+base/DMarshaller.class
+base/DOutput.class
+base/DSerialize.class
+base/anotation/Marshaller.class
+base/DInput.class
+base/anotation/MethodDeserialize.class
